@@ -30,4 +30,9 @@ External Requirements:
 sudo pacman -S --noconfirm --needed gcc make git ripgrep fd unzip neovim
 ```
 
+## Post Installation
 
+```
+nvim
+```
+`:Lazy`
